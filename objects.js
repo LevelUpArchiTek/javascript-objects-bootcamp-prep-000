@@ -1,1 +1,1 @@
-
+var playlist = {Usher: 'Yeah'}
